@@ -6,10 +6,10 @@
 
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=OXFF-96&theme=transparent&show_icons=true" alt="OXFF-96's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=0XFF-96&theme=transparent&show_icons=true" alt="OXFF-96's GitHub Stats"/>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OXFF-96&theme=transparent&show_icons=true&layout=compact&card_width=467" alt="OXFF-96's Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XFF-96&theme=transparent&show_icons=true&layout=compact&card_width=467" alt="OXFF-96's Top Languages"/>
   </div>
 </div>
 
