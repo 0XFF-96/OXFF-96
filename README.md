@@ -70,7 +70,7 @@
   </a>
   &nbsp;
   <a href="mailto:jli449668@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zexuding1025@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email Badge 2">
+    <img src="https://img.shields.io/badge/Email-jli449668@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email Badge 2">
   </a>
   &nbsp;
 </p>
