@@ -6,14 +6,14 @@
 
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=dzx1025&theme=transparent&show_icons=true" alt="dzx1025's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=OXFF-96&theme=transparent&show_icons=true" alt="OXFF-96's GitHub Stats"/>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzx1025&theme=transparent&show_icons=true&layout=compact&card_width=467" alt="dzx1025's Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OXFF-96&theme=transparent&show_icons=true&layout=compact&card_width=467" alt="OXFF-96's Top Languages"/>
   </div>
 </div>
 
-![Views](https://komarev.com/ghpvc/?username=dzx1025&style=flat&color=023373)
+![Views](https://komarev.com/ghpvc/?username=OXFF-96&style=flat&color=023373)
 
 <h2 align="center"> 💻 Technical Skills </h2>
 
