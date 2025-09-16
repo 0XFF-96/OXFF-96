@@ -19,11 +19,6 @@
 
 <p align="center">
   <a>
-    <img src="https://img.shields.io/badge/C%23-023373?style=for-the-badge&logo=sharp&logoColor=white" alt="C# Badge"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/.NET-023373?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
-  </a>
   <a>
     <img src="https://img.shields.io/badge/Python-023373?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   </a>
